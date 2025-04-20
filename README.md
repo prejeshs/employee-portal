@@ -1,4 +1,4 @@
-# Employee Management System
+# Employee Portal 
 
 A full-stack web application for managing employee records, built using **Spring Boot 3**, **React JS 18**, and **MySQL**.
 
@@ -6,7 +6,7 @@ A full-stack web application for managing employee records, built using **Spring
 
 ## Overview
 
-This project allows users to perform basic CRUD operations on employee data. It includes a backend REST API developed with Spring Boot and a frontend interface built with React.
+This project allows users to perform CRUD operations on employee data. It includes a backend REST API developed with Spring Boot and a frontend interface built with React.
 
 ---
 
