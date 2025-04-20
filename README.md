@@ -29,12 +29,3 @@ This project allows users to perform CRUD operations on employee data. It includ
 - **Tools**: Maven, npm
 
 ---
-
-## Running the Project Locally
-
-### Backend (Spring Boot)
-
-1. Navigate to the backend directory:
-
-```bash
-cd springboot-backend
