@@ -1,6 +1,6 @@
-# Employee Portal - Full Stack Application
+# Employee Portal - Full Stack Web Application
 
-A full-featured employee management system built using **Spring Boot 3**, **React JS 18**, and **MySQL**. This CRUD application allows users to add, update, view, and delete employee records via a responsive frontend and secure RESTful backend.
+A full-featured employee management portal built using **Spring Boot 3**, **React JS 18**, and **MySQL**. This CRUD application allows users to add, update, view, and delete employee records via a responsive frontend and secure RESTful backend.
 
 ---
 
