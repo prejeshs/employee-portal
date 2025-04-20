@@ -39,11 +39,13 @@ A full-featured employee management portal built using **Spring Boot 3**, **Reac
 
 ## Sample Screenshots
 
-1. **Employees List View**  
+1. **Employees List View**
+2. 
    ![Employee Records List](screenshots/fullstack1.png)  
    A snapshot of the employee records table displaying all employees with options to view, update, or delete entries.
 
-2. **Add Employee Form**  
-   ![Add Employee Form](screenshots/fullstack2.png)  
+3. **Add Employee Form**  
+   ![Add Employee Form](screenshots/fullstack2.png)
+   
    A screenshot showcasing the form for adding a new employee, demonstrating real-time form validation and input fields.
 
